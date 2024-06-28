@@ -1,12 +1,12 @@
 # Restaurant-Using-Next
   This project is a Next.js application designed to showcase a variety of meals, provide detailed information about each meal, and enable users to create and share new meals with preparation steps.
 
-# Features
+## Features
   Meal Showcase: Browse through a curated selection of meals with appealing visuals and detailed descriptions.
   Meal Details: Click on any meal to view its ingredients, nutritional information, and preparation steps.
   User-Generated Content: Users can create and share their own meals, complete with preparation instructions and ingredients.
 
-# Technologies Used
+## Technologies Used
   Next.js File System: Utilized for organizing the project structure and routing.
   Dynamic Routes: Configured to handle dynamic meal pages and user-generated content.
   use client / use server: Leveraged to optimize rendering and data fetching.
